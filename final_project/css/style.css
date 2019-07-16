@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins|Ubuntu&display=swap');
+body {
+  background-color: black;
+  color: white;
+}
+h1, h2, p, li, ul {
+	font-family: Poppins, sans-serif;
+}
+h1, h2 {
+
+	color: #ffb3b3;
+}
+
+h1 {
+	font-size: 100px;
+	letter-spacing: 2px; 
+	text-align: center;
+
+}
+
+h2 {
+	font-size: 24px;
+}
+
+p {
+	font-size: 18px;
+}
+
+img {
+	width: 150px;
+	height: 150px;
+}
+
+li {
+	display: inline-block;
+	margin: 5px;
+	text-size: 16px;
+
+}
+
+a {
+
+	color: #ff6666;
+}
+
+#hobbies {
+	font-size: 24px;
+	color: #ffb3b3;
+	text-align: left;
+}
